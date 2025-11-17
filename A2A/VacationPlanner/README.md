@@ -3,8 +3,8 @@
 
 This project demonstrates Agent-to-Agent (A2A) communication using Google's Agent Development Kit (ADK).
 
-## Architecture
-
+## Components
+Contains 3 independent agents:
 - **Travel Host Agent** (travel_host_agent.py): Google Gemini based agent that handles user queries
 - **Remote Agent** (hotel_booking_agent.py): A2A compliant hotel booking agent
 - **Remote Agent** (flight_booking_agent.py): A2A compliant hotel booking agent
