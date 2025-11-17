@@ -9,6 +9,8 @@ Contains 3 independent agents:
 - **Remote Agent** (hotel_booking_agent.py): A2A compliant hotel booking agent
 - **Remote Agent** (flight_booking_agent.py): A2A compliant hotel booking agent
 
+Travel Host Agent communicates with 2 remote agents using A2A protocol.
+
 ## Setup
 
 1. Install dependencies:
